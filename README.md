@@ -47,6 +47,7 @@ Become a **Go Backend Engineer** with deep systems understanding — not just so
 ## 📊 Current Progress — Cycle 1 (Weeks 1–12)
 
 **Focus:** Go Core internals · CS50x · TryHackMe Pre Security
+
 Go Core        ████░░░░░░░░░░░░░░░░  20%
 CS50x          ██░░░░░░░░░░░░░░░░░░  10%
 TryHackMe      ░░░░░░░░░░░░░░░░░░░░   0%
@@ -67,7 +68,7 @@ TryHackMe      ░░░░░░░░░░░░░░░░░░░░   0%
 ## ✅ Roadmap Checklist — Cycle 1
 
 ### CS50x
-- [x] Week 0 — Scratch
+- [ ] Week 0 — Scratch
 - [ ] Week 1 — C
 - [ ] Week 2 — Arrays
 - [ ] Week 3 — Algorithms
